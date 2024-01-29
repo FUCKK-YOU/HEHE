@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/244.0.0.16.236;FBPN/com.facebook.orca;FBLC/vi_VN;FBBV/187555175;FBCR/VIETTEL;FBMF/OPPO;FBBD/OPPO;FBDV/CPH1987;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=2196};FB_FW/1;]
+[FBAN/FB4A;FBAV/245.0.0.39.118;FBBV/180475968,FBDM/(density=2.0,width=720,height=1280); FBLC/es_LA;FBRV/181817659,FBCR/TELCEL,FBMF/Hisense,FBBD/Hisense;FBPN/com.facebook.katana,FBDV/Hisense Hi 3,FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi]
