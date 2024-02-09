@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/355.0.0.21.108;FBBV/352948159;FBDM/{density=3.0,width=1080,height=2153};FBLC/ru_RU;FBRV/353761355;FBCR/Beeline UZ;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2001;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/AXIS;FBMF/vivo;FBBD/vivo;FBDV/vivo Y20;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.29375,width=1080,height=2145};]
