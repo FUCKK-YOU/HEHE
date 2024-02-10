@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/322.0.0.35.121;FBBV/297186794;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/0;FBCR/airtel;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 5A;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/203.0.0.16.293;FBBV/137424444;FBDM/{density=4.0,width=1125,height=1280};FBLC/en_US;FBRV/355011913;FB_FW/2;FBCR/Movistar;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.orca;FBDV/LE2120;FBSV/9.9.9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/307.0.0.40.111;FBBV/274797441;FBDM/{density=3.0,width=1080,height=2129};FBLC/cs_CZ;FBRV/275156670;FBCR/O2.CZ;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Mi 9 SE;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
