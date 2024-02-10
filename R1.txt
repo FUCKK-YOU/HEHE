@@ -1,2 +1,1 @@
-[FBAN/FB4A;FBAV/277.0.0.41.126;FBBV/227128646;FBDM/{density=3.0,width=1080,height=2016};FBLC/zh_TW;FBRV/0;FBCR/Chunghwa;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1719;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/258.0.0.34.119;FBBV/199294464;FBDM/{density=2.25,width=720,height=1280};FBLC/en_GB;FBRV/200290264;FBCR/O2 - UK;FBMF/Blackview;FBBD/Blackview;FBPN/com.facebook.katana;FBDV/A7;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/287.0.0.50.119;FBBV/243660864;FBDM/{density=1.7,width=720,height=1358};FBLC/es_LA;FBRV/0;FB_FW/2;FBCR/;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto e5 plus;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
