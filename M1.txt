@@ -1,1 +1,2 @@
-[FBAN/EMA;FBBV/470353487;FBAV/353.0.0.5.112;FBDV/Samsung Galaxy S21;FBLC/id_ID;FBNG/WIFI;FBMNT/METERED;FBDM/{density=3.0}]
+[FBAN/Orca-Android;FBAV/378.0.0.67.84;FBPN/com.facebook.orca;FBLC/en_US;FBBV/366691894;FBCR/3ITA;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi Note 10 Lite;FBSV/10;FBCA/x86:armeabi-v7a;FBDM/{density=2.8125,width=1080,height=2208};]
+[FBAN/Orca-Android;FBAV/133.0.0.59.88;FBPN/com.facebook.orca;FBLC/en_US;FBBV/310330937;FBCR/TELCEL;FBMF/samsung;FBBD/samsung;FBDV/X430;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.75,width=1080,height=1920};]
