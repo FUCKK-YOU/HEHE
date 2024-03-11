@@ -172,11 +172,11 @@ Abir 11-3//25-3
 7ba02a87ad90ac65d1c6b73505be6657
 Emran
 43b6502ec8bebffcae15d1264138872b
-Arafat 11-3 // 20-3
+Arafat 11-3 // 18-3
 e362e18ca0609fc436fb01b86be8413c
-Miavai 11-3 // 20-3
+Miavai 11-3 // 18-3
 1e61f0784f984ba5da00a75c3e071476
-Yasin  11-3 // 20-3
+Yasin  11-3 // 18-3
 13bc8bbdea0dc4d59a8585f6b5262527
-Hridoy 11-3 // 20-3
+Hridoy 11-3 // 18-3
 9c9bf7a7f09217c6d401dfc4b044adf7
